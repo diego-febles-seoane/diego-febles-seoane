@@ -25,8 +25,8 @@ Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
 ---
 
 ## 📂 Proyectos
-🔹 [Juego del Ahorcado](https://github.com/alvarogrlp/juegoAhorcado): desarrollado con **Java + JavaFX**  
-🔹 [Simulador de combates de Marvel](https://github.com/alvarogrlp/simuladorDeMarvel) (en desarrollo): usando **Java, JavaFX y CSS**
+🔹 [Juego del Ahorcado](https://github.com/diegofeblesseoane/juegoAhorcado): desarrollado con **Java + JavaFX**  
+🔹 [Pokemon Piedra, papel y tijeras](https://github.com/diego-febles-seoane/pkgame) (en desarrollo): usando **Java, JavaFX y CSS**
 
 ---
 
