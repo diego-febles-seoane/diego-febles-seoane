@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Soy%20%20Diego%20Febles&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=60&descAlign=50&descAlignY=50" />
+<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&text=Soy%20%20Diego%20Febles&section=header&reversal=false&textBg=false&fontAlign=50&fontAlignY=50&fontSize=60&descAlign=50&descAlignY=70&desc=Programador" />
 
 ## 👨‍💻 Sobre mí
 Estoy estudiando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
