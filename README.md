@@ -38,7 +38,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&pause=1000&color=F70404&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hoy+y+siempre+programador;-------%E2%9D%A4%EF%B8%8F--------"  />
+  <img src="https://capsule-render.vercel.app/api?type=venom&https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&pause=1000&color=F70404&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hoy+y+siempre+programador;-------%E2%9D%A4%EF%B8%8F--------"  />
 </p>
 
 
