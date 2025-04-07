@@ -25,7 +25,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 
 ## 📂 Proyectos
 🔹 [Juego del Ahorcado](https://github.com/diegofeblesseoane/juegoAhorcado): desarrollado con **Java + JavaFX**  
-🔹 [Pokemon Piedra, papel y tijeras](https://github.com/diego-febles-seoane/pkgame) (en desarrollo): usando **Java, JavaFX y CSS**
+🔹 [Pokemon Piedra, papel y tijeras](https://github.com/diego-febles-seoane/pk-game) (en desarrollo): usando **Java, JavaFX y CSS**
 
 ---
 
