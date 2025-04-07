@@ -11,6 +11,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 
 ## 🚀 Tecnologías que estoy aprendiendo
 
+![Blockbench](https://img.shields.io/badge/Blockbench-0078D6?style=for-the-badge&logo=blockbench&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -20,7 +21,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Blockbench](https://img.shields.io/badge/Blockbench-0078D6?style=for-the-badge&logo=blockbench&logoColor=white)
+
 
 ---
 
