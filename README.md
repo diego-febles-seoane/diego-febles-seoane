@@ -4,8 +4,8 @@
 
 ## 👨‍💻 Sobre mí
 Estoy estudiando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
-Explorando el mundo del desarrollo y aprendiendo cada día algo nuevo.  
-Me gusta **programar**, **crear interfaces** y **dar vida a ideas** con código.
+Explorando el mundo del desarrollo 3D en **blockbench**.  
+Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 
 ---
 
