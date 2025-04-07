@@ -38,7 +38,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0072FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=Aprendiendo+y+creciendo+como+programador;¡Bienvenido+a+mi+GitHub!+%F0%9F%91%8B" alt="Typing SVG" />
+  <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&pause=1000&color=F70404&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hoy+y+siempre+programador;-------%E2%9D%A4%EF%B8%8F--------" alt="Typing SVG" />
 </p>
 
 
