@@ -1,7 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ff0000&height=180&section=header&text=%C2%A1Hola,%20soy%20Diego!&fontSize=35&fontAlignY=40&desc=Estudiante%20de%20DAM%20%7C%20Java%20%7C%20SQL%20%7C%20Web%20Dev&descAlignY=60&descAlign=62" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0000ff,100:ff0000&height=180&section=header&text=%C2%A1Hola,%20soy%20Diego!&fontSize=35&fontAlignY=40&desc=Estudiante%20de%20DAM%20%7C%20Java%20%7C%20SQL%20%7C%20Web%20Dev&descAlignY=60&descAlign=62&textColor=#ffffff" />
 
 ## 👨‍💻 Sobre mí
 Estoy estudiando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**.  
