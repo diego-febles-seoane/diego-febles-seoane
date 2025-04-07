@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=%C2%A1Hola,%20soy%20%C3%81Diego!&fontSize=35&fontAlignY=40&desc=Estudiante%20de%20DAM%20%7C%20Java%20%7C%20SQL%20%7C%20Web%20Dev&descAlignY=60&descAlign=62" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=180&section=header&text=%C2%A1Hola,%20soy%20%Diego!&fontSize=35&fontAlignY=40&desc=Estudiante%20de%20DAM%20%7C%20Java%20%7C%20SQL%20%7C%20Web%20Dev&descAlignY=60&descAlign=62" />
 </p>
 
 ## 👨‍💻 Sobre mí
