@@ -40,5 +40,3 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 </p>
 
 
-![snake 
-svg](https://github.com/alvarogrlp/snk/raw/manual-run-output/only-svg/github-contribution-grid-snake.svg)
