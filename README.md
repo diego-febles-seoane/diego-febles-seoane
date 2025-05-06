@@ -35,7 +35,7 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 ¿Te interesa lo que hago? ¿Quieres hablar o colaborar?  
 📩 **diegofebless@gmail.com**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alejandrosalazargonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="diego-febles-seoane" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-febles-seoane&label=Profile%20views&color=0e75b6&style=flat" alt="diego-febles-seoane" /> </p>
 </p>
 ---
 
