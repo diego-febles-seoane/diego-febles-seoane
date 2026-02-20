@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Diego%20Febles&fontSize=60&fontAlign=50&fontAlignY=40&desc=Desarrollador%20Multiplataforma%20en%20formación&descAlign=50&descAlignY=65" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/banner-github.png"/>
 </p>
 
 <h2 align="center">💻 Estudiante de DAM | 🎨 Creativo | 🚀 Futuro Developer</h2>
