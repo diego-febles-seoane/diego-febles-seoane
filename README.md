@@ -1,7 +1,7 @@
 <!-- ======================= HEADER ======================= -->
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/banner-github.png"/>
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/banner-git.gif"/>
 </p>
 
 <h2 align="center">💻 Estudiante de DAM | 🎨 Creativo | 🚀 Futuro Developer</h2>
