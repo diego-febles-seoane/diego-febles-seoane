@@ -37,7 +37,6 @@ Me gusta crear **interfaces**, **diseños graficos**, dar vida a **proyectos**.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diego-febles-seoane&label=Profile%20views&color=0e75b6&style=flat" alt="diego-febles-seoane" /> </p>
 </p>
----
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Times+New+Roman&size=36&pause=1000&color=F70404&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hoy+y+siempre+programador;-------%E2%9D%A4%EF%B8%8F--------"  />
