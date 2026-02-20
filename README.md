@@ -6,18 +6,64 @@
 
 <h2 align="center">💻 Estudiante de DAM | 🎨 Creativo | 🚀 Futuro Developer</h2>
 
+<p align="center">
+🧼 Clean Code • 🎨 UI Lover • 🚀 Tech Enthusiast
+</p>
+
+<p align="center">
+  <a href="mailto:diegofebless@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/diego-febles-seoane">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 Sobre mí
 
-🎓 Actualmente estudiando **1º de Desarrollo de Aplicaciones Multiplataforma (DAM)**  
-🧩 Explorando el desarrollo 3D con **Blockbench**  
-🎨 Me apasiona diseñar **interfaces atractivas**, crear **experiencias visuales** y desarrollar **proyectos funcionales**  
-📚 Siempre aprendiendo y mejorando cada día  
+🎓 Estudiante de **1º Desarrollo de Aplicaciones Multiplataforma (DAM)**  
+🧩 Explorando desarrollo 3D con **Blockbench**  
+🎨 Apasionado por diseñar **interfaces atractivas y funcionales**  
+⚙️ Interesado en desarrollo Full Stack y aplicaciones de escritorio  
+📚 Aprendizaje continuo y mejora constante  
 
 ---
 
-## 🛠️ Stack en aprendizaje
+## ⭐ Proyectos Destacados
+
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎮 Juego del Ahorcado  
+Java · JavaFX  
+
+Aplicación de escritorio desarrollada en Java con interfaz gráfica.
+
+➡️ [Ver repositorio](https://github.com/diego-febles-seoane/juego-ahorcado)
+
+</td>
+
+<td width="50%" align="center">
+
+### ⚔️ Pokémon: Piedra, Papel y Tijeras  
+Java · JavaFX · CSS  
+
+Proyecto en desarrollo con diseño personalizado y lógica modular.
+
+➡️ [Ver repositorio](https://github.com/diego-febles-seoane/pk-game)
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🛠️ Tecnologías y herramientas
 
 <p align="center">
   
@@ -35,21 +81,7 @@
 
 ---
 
-## 📂 Proyectos Destacados
-
-### 🎮 Juego del Ahorcado
-🛠️ Java + JavaFX  
-🔗 https://github.com/diego-febles-seoane/juego-ahorcado  
-
----
-
-### ⚔️ Pokémon: Piedra, Papel y Tijeras *(En desarrollo)*
-🛠️ Java + JavaFX + CSS  
-🔗 https://github.com/diego-febles-seoane/pk-game  
-
----
-
-## 📊 Estadísticas
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diego-febles-seoane&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
@@ -58,9 +90,10 @@
 
 ---
 
-## 📫 Contacto
+## 🚀 Objetivo Profesional
 
-📩 **diegofebless@gmail.com**
+Convertirme en desarrollador multiplataforma capaz de crear aplicaciones eficientes,
+bien estructuradas y visualmente atractivas.
 
 ---
 
