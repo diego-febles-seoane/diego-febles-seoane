@@ -21,28 +21,25 @@
 ---
 <table width="100%">
   <tr>
-    <td width="20%" align="center">
+    <td align="center" width="25%">
       <a href="https://modrinth.com/datapack/legends-fakemon">
         <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/pack.png" 
-             width="100%" style="max-width:180px; border-radius: 12px;" />
+             width="120" />
       </a>
     </td>
-    <td width="65%">
-      <strong style="font-size:1.2em;">Legend's Fakemon</strong>
+    <td>
+      <strong>Legend's Fakemon</strong><br/><br/>
+      Un datapack de <strong>fakemons</strong> (Pokémons inventados) para el mod 
+      <strong>Cobblemon</strong> en Minecraft.
+      Todo diseñado y modelado con <strong>Blockbench</strong>.
       <br/><br/>
-      <p>
-        Un datapack de <strong>fakemons</strong> (Pokémons inventados) para el mod 
-        <strong>Cobblemon</strong> en Minecraft.<br/>
-        Todo diseñado y modelado con <strong>Blockbench</strong>.
-      </p>
       <a href="https://modrinth.com/datapack/legends-fakemon">
         <img src="https://img.shields.io/badge/Ver%20en%20Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" />
       </a>
     </td>
-    <td width="15%" align="center" valign="middle">
-      <a href="https://www.blockbench.net" target="_blank">
-        <img src="https://raw.githubusercontent.com/JannisX11/blockbench/master/icon.png" 
-             width="60" title="Hecho con Blockbench" />
+    <td align="center" width="12%">
+      <a href="https://www.blockbench.net">
+        <img src="https://raw.githubusercontent.com/JannisX11/blockbench/master/icon.png" width="50" />
       </a>
     </td>
   </tr>
