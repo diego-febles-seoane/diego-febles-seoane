@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/name%20(2).png" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/name.png" />
 </p>
 
 <p align="center">
