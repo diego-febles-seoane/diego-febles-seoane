@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <strong>Desarrollador Multiplataforma en Proceso</strong><br>
+  <strong>Desarrollador Multiplataforma</strong><br>
   Java • Diseño de Interfaces • Modelado 3D en Blockbench • Estética Pixel
 </p>
 
@@ -27,19 +27,17 @@
              width="180" style="border-radius: 12px;" />
       </a>
     </td>
-    <td width="30"></td>
     <td>
       <h3>Legend's Fakemon</h3>
       <p>
         Un datapack de <strong>fakemons</strong> (Pokémons inventados) para el mod 
         <strong>Cobblemon</strong> en Minecraft.<br/>
-        Todo diseñado y modelado a mano con <strong>Blockbench</strong>.
+        Todo diseñado y modelado con <strong>Blockbench</strong>.
       </p>
       <a href="https://modrinth.com/datapack/legends-fakemon">
         <img src="https://img.shields.io/badge/Ver%20en%20Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" />
       </a>
     </td>
-    <td width="30"></td>
     <td valign="middle">
       <a href="https://www.blockbench.net" target="_blank">
         <img src="https://raw.githubusercontent.com/JannisX11/blockbench/master/icon.png" 
