@@ -19,16 +19,17 @@
 </p>
 
 ---
-<table align="center">
+<table width="100%">
   <tr>
-    <td>
+    <td width="20%" align="center">
       <a href="https://modrinth.com/datapack/legends-fakemon">
         <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/pack.png" 
-             width="180" style="border-radius: 12px;" />
+             width="100%" style="max-width:180px; border-radius: 12px;" />
       </a>
     </td>
-    <td>
-      <h3>Legend's Fakemon</h3>
+    <td width="65%">
+      <strong style="font-size:1.2em;">Legend's Fakemon</strong>
+      <br/><br/>
       <p>
         Un datapack de <strong>fakemons</strong> (Pokémons inventados) para el mod 
         <strong>Cobblemon</strong> en Minecraft.<br/>
@@ -38,10 +39,10 @@
         <img src="https://img.shields.io/badge/Ver%20en%20Modrinth-1bd96a?style=for-the-badge&logo=modrinth&logoColor=white" />
       </a>
     </td>
-    <td valign="middle">
+    <td width="15%" align="center" valign="middle">
       <a href="https://www.blockbench.net" target="_blank">
         <img src="https://raw.githubusercontent.com/JannisX11/blockbench/master/icon.png" 
-             width="80" title="Hecho con Blockbench" />
+             width="60" title="Hecho con Blockbench" />
       </a>
     </td>
   </tr>
