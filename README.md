@@ -1,15 +1,15 @@
 <!-- ======================== BANNER ======================== -->
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/banner-git.gif" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/banner-git.gif" />
 </p>
 
 <p align="center">
-  <img src="https://projectpokemon.org/images/shiny-sprite/golisopod.gif" width="60" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/golisopod.gif" width="60" />
 </p>
 
 <p align="center">
-  <strong style="font-size: 42px;">
+  <strong style="font-size: 168px;">
     𝕯𝖎𝖊𝖌𝖔 𝕱𝖊𝖇𝖑𝖊𝖘
   </strong>
 </p>
