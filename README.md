@@ -29,7 +29,7 @@
     </td>
     <td width="30"></td>
     <td>
-      <h3>⚔️ Legend's Fakemon</h3>
+      <h3>Legend's Fakemon</h3>
       <p>
         Un datapack de <strong>fakemons</strong> (Pokémons inventados) para el mod 
         <strong>Cobblemon</strong> en Minecraft.<br/>
