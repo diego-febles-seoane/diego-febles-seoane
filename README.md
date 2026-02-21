@@ -5,9 +5,7 @@
 </p>
 
 <p align="center">
-  <strong style="font-size: 2680px;">
-    𝕯𝖎𝖊𝖌𝖔 𝕱𝖊𝖇𝖑𝖊𝖘
-  </strong>
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/name%20(2).png" />
 </p>
 
 <p align="center">
