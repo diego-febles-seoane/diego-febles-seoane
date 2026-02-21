@@ -1,13 +1,11 @@
 <!-- ======================== BANNER ======================== -->
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/banner-git.gif" 
-       style="max-width:600px; width:100%; height:auto;" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/banner-git.gif" style="max-width:600px; width:100%; height:auto;" />
 </p>
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/banner-name.png" 
-       style="max-width:600px; width:100%; height:auto;" />
+  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/banner-name.png" style="max-width:600px; width:100%; height:auto;" />
 </p>
 
 <p align="center">
