@@ -5,11 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/golisopod.gif" width="60" />
-</p>
-
-<p align="center">
-  <strong style="font-size: 168px;">
+  <strong style="font-size: 2680px;">
     𝕯𝖎𝖊𝖌𝖔 𝕱𝖊𝖇𝖑𝖊𝖘
   </strong>
 </p>
