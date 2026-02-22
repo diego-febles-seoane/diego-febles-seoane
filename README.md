@@ -38,19 +38,14 @@
 ---
 
 <!-- ======================== ESTADÍSTICAS ======================== -->
-<h2 align="center">📊 Estadísticas</h2>
+<div align="center">
 
-![Mis Habilidades](https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','JavaScript','SQL','Docker','Git','React'],datasets:[{label:'Nivel',data:[90,75,80,60,85,70],backgroundColor:'rgba(99,102,241,0.3)
+## 📊 Estadísticas de GitHub
 
-',borderColor:'rgba(99,102,241,1)',pointBackgroundColor:'rgba(99,102,241,1)'}]}})
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=diego-febles-seoane&bg_color=0d1117&color=FFA500&line=FF8C00&point=FF6D00&area=true&hide_border=true&hide_y_axis=true&custom_title=+" width="95%"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diego-febles-seoane&show_icons=true&theme=dark&title_color=FFA500&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego-febles-seoane&layout=compact&theme=dark&title_color=FFA500&text_color=ffffff&bg_color=0d1117&hide_border=true" width="40%" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=diego-febles-seoane&theme=dark&ring=FFA500&fire=FF6D00&currStreakLabel=FFA500&hide_border=true&background=0d1117" width="55%" />
-</p>
+<br/>
+</div>
 
 ---
 
