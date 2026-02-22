@@ -96,6 +96,26 @@
   </tr>
   <tr>
     <td align="center" width="20%" style="padding: 16px;">
+      <a href="https://github.com/diego-febles-seoane/Sudoku-game">
+        <img src="https://img.shields.io/badge/☕-Sudoku-FFA500?style=for-the-badge&labelColor=0d1117" width="110" />
+      </a>
+    </td>
+    <td style="padding: 16px;">
+      <strong>🟠 Sudoku Game</strong><br/><br/>
+      Un juego de <strong>Sudoku</strong> desarrollado en Java con interfaz
+      gráfica y estilos CSS personalizados.
+      <br/><br/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+      <img src="https://img.shields.io/badge/CSS-FF8C00?style=flat-square&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Juego-FF6D00?style=flat-square&logoColor=white" />
+      <br/><br/>
+      <a href="https://github.com/diego-febles-seoane/Sudoku-game">
+        <img src="https://img.shields.io/badge/Ver%20en%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="20%" style="padding: 16px;">
       <img src="https://via.placeholder.com/110x110/0d1117/FFA500?text=🚧" width="110" style="border-radius: 12px;" />
     </td>
     <td style="padding: 16px;">
