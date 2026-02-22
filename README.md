@@ -40,21 +40,9 @@
 <!-- ======================== ESTADÍSTICAS ======================== -->
 <h2 align="center">📊 Estadísticas</h2>
 
-```mermaid
----
-config:
-  radar:
-    axisScaleFactor: 0.7
-    curve: linearClosed
----
-radar
-  title 🚀 Mis Habilidades
-  x-axis ["Python", "JavaScript", "SQL", "Docker", "Git", "React"]
-  y-axis 0 --> 100
-  curve {
-    "Nivel": [90, 75, 80, 60, 85, 70]
-  }
-```
+![Mis Habilidades](https://quickchart.io/chart?c={type:'radar',data:{labels:['Python','JavaScript','SQL','Docker','Git','React'],datasets:[{label:'Nivel',data:[90,75,80,60,85,70],backgroundColor:'rgba(99,102,241,0.3)
+
+',borderColor:'rgba(99,102,241,1)',pointBackgroundColor:'rgba(99,102,241,1)'}]}})
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diego-febles-seoane&show_icons=true&theme=dark&title_color=FFA500&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
