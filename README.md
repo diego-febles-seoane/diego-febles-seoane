@@ -40,18 +40,21 @@
 <!-- ======================== ESTADÍSTICAS ======================== -->
 <h2 align="center">📊 Estadísticas</h2>
 
+```mermaid
 ---
 config:
   radar:
     axisScaleFactor: 0.7
+    curve: linearClosed
 ---
 radar
-  title Estadísticas del Personaje
-  x-axis ["Fuerza", "Agilidad", "Inteligencia", "Resistencia", "Magia", "Suerte"]
+  title 🚀 Mis Habilidades
+  x-axis ["Python", "JavaScript", "SQL", "Docker", "Git", "React"]
   y-axis 0 --> 100
   curve {
-    "Personaje A": [80, 60, 90, 70, 50, 65]
+    "Nivel": [90, 75, 80, 60, 85, 70]
   }
+```
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=diego-febles-seoane&show_icons=true&theme=dark&title_color=FFA500&icon_color=FF8C00&text_color=ffffff&bg_color=0d1117&hide_border=true" width="48%" />
