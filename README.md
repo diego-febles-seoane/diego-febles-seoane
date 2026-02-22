@@ -20,33 +20,40 @@
 <!-- ======================== SOBRE MÍ ======================== -->
 <h2 align="center">🟠 Sobre mí</h2>
 
-<table width="100%">
-  <tr>
-    <td width="60%" valign="top">
-      <p>
-        Soy estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong>, apasionado por la programación,
-        el diseño de interfaces y la creación de experiencias visuales.<br/>
-        Me especializo en <strong>Java</strong> con experiencia en desarrollo Android, bases de datos SQLite
-        y modelado 3D con Blockbench.<br/>
-        Me gusta cuidar los detalles estéticos tanto como la lógica del código.
-      </p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Android-FF6D00?style=for-the-badge&logo=android&logoColor=white"/>
-        <img src="https://img.shields.io/badge/SQLite-FF8C00?style=for-the-badge&logo=sqlite&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Blockbench-FFA500?style=for-the-badge&logoColor=white"/>
-      </p>
-    </td>
-    <td width="40%" valign="top">
-      <table>
-        <tr><td>🧘 Manejo del estrés</td><td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓░░-80%25-FFA500?style=flat-square&labelColor=0d1117"/></td></tr>
-        <tr><td>🎯 Concentración</td><td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓░-90%25-FF8C00?style=flat-square&labelColor=0d1117"/></td></tr>
-        <tr><td>🤝 Trabajo en equipo</td><td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓░░░-70%25-FF6D00?style=flat-square&labelColor=0d1117"/></td></tr>
-        <tr><td>🧑‍💻 Trabajo en solitario</td><td><img src="https://img.shields.io/badge/▓▓▓▓▓▓▓▓▓▓-100%25-ED8B00?style=flat-square&labelColor=0d1117"/></td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<img align="right" src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/skills.svg" width="400"/>
+
+<p>
+  Soy estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong>,
+  apasionado por la programación, el diseño de interfaces y la creación
+  de experiencias visuales. Me especializo en <strong>Java</strong> con
+  experiencia en desarrollo Android, bases de datos SQLite y modelado
+  3D con Blockbench. Me gusta cuidar los detalles estéticos tanto
+  como la lógica del código.
+</p>
+
+<p>
+  Me defino como una persona <strong>trabajadora, altamente creativa y aplicada</strong>,
+  que disfruta tanto del proceso técnico como del resultado visual. No me conformo
+  con que algo funcione, quiero que además se vea bien. Cada proyecto es una
+  oportunidad de aprender algo nuevo y llevarlo un paso más allá.
+</p>
+
+<p>
+  Mi objetivo es seguir <strong>formándome y creciendo</strong> como desarrollador,
+  profundizando en mis conocimientos actuales y explorando nuevas tecnologías.
+  A largo plazo quiero desarrollar <strong>proyectos propios</strong> que combinen
+  programación, diseño y creatividad, construyendo desde cero experiencias
+  que dejen huella.
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-FF6D00?style=for-the-badge&logo=android&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQLite-FF8C00?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockbench-FFA500?style=for-the-badge&logoColor=white"/>
+</p>
+
+<br clear="right"/>
 
 ---
 
