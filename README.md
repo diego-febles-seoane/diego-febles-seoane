@@ -20,7 +20,7 @@
 <!-- ======================== SOBRE MÍ ======================== -->
 <h2 align="center">🟠 Sobre mí</h2>
 
-<img align="right" src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/skills.svg" width="400"/>
+<img align="right" src="https://github.com/diego-febles-seoane/diego-febles-seoane/blob/main/img/skillsPixel.svg" width="400"/>
 
 <p>
   Soy estudiante de <strong>Desarrollo de Aplicaciones Multiplataforma</strong>,
